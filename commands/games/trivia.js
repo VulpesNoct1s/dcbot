@@ -11,7 +11,7 @@ const questions = [
     options: ["A) Dennis Ritchie", "B) Bjarne Stroustrup", "C) Guido van Rossum", "D) James Gosling"],
     answer: "C"
   },
-  // Daha fazla soru ekleyin
+  
 ];
 
 export default {
